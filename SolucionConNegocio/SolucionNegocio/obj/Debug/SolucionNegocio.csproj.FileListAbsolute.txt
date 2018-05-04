@@ -1,0 +1,6 @@
+C:\Users\Pedro\source\repos\SolucionConNegocio\SolucionNegocio\bin\Debug\SolucionNegocio.dll
+C:\Users\Pedro\source\repos\SolucionConNegocio\SolucionNegocio\bin\Debug\SolucionNegocio.pdb
+C:\Users\Pedro\source\repos\SolucionConNegocio\SolucionNegocio\obj\Debug\SolucionNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\source\repos\SolucionConNegocio\SolucionNegocio\obj\Debug\SolucionNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\SolucionConNegocio\SolucionNegocio\obj\Debug\SolucionNegocio.dll
+C:\Users\Pedro\source\repos\SolucionConNegocio\SolucionNegocio\obj\Debug\SolucionNegocio.pdb
